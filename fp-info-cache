@@ -1,4 +1,32 @@
-6811636053298
+17029262772433
+connector
+53261-0271
+Battery Connector
+Connector
+0
+4
+4
+connector
+GCT_USB4105GFA060
+USB type-C Connector
+
+0
+16
+16
+connector
+PCM12SMTR
+Slide Switche
+
+0
+7
+7
+connector
+TL3365AF180QG
+Tactile Switch
+Switch
+0
+4
+4
 passive
 0402
 
@@ -27,3 +55,17 @@ passive
 0
 2
 2
+passive
+THT2
+
+
+0
+2
+2
+power
+BGA30C40P6X5_279X234X50
+30PIN BGA
+Integrated Circuit
+0
+30
+30
