@@ -4,3 +4,5 @@ fp-info-cache
 *-backups/*
 .DS_Storegit
 datasheets/.DS_Store
+*~elastic_power_module.kicad_pcb.lck
+*~elastic_power_module.kicad_sch.lck
