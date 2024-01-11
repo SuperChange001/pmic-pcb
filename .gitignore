@@ -1,3 +1,4 @@
+# .gitignore
 fp-info-cache
 *.kicad_prl
 *-backups/
@@ -6,3 +7,6 @@ fp-info-cache
 datasheets/.DS_Store
 *~elastic_power_module.kicad_pcb.lck
 *~elastic_power_module.kicad_sch.lck
+elastic_power_module.kicad_prl
+elastic_power_module.kicad_prl
+elastic_power_module.kicad_prl
