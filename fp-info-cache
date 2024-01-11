@@ -1,4 +1,4 @@
-17029262772433
+23845307902041
 connector
 53261-0271
 Battery Connector
@@ -7,12 +7,40 @@ Connector
 4
 4
 connector
+Connector_20PIN_5052782033
+
+
+0
+22
+22
+connector
 GCT_USB4105GFA060
 USB type-C Connector
 
 0
 16
 16
+connector
+Header_THT_1.27_12P
+
+
+0
+12
+12
+connector
+Header_THT_2.54_1P
+
+
+0
+1
+1
+connector
+Header_THT_2.54_12P
+
+
+0
+12
+12
 connector
 PCM12SMTR
 Slide Switche
