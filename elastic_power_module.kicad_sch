@@ -1565,7 +1565,7 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold (color 0 0 194 1)) (justify left bottom))
     (uuid 1148f7ce-4e1b-4cb7-aea4-fc1446939cfe)
   )
-  (text "Output Connector" (at 156.21 85.09 0)
+  (text "Output Connector" (at 157.48 85.09 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold (color 0 0 194 1)) (justify left bottom))
     (uuid 28fd1c02-7f6f-43ab-9c8e-a4c0459fc16d)
   )
